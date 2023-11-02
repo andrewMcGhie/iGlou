@@ -1,0 +1,63 @@
+[
+    {
+        "type": "champagne",
+        "producer": "veuve clicquot ponsardin",
+        "designation": "brut"
+    },
+    {
+        "type": "champagne",
+        "producer": "perrier jouet",
+        "designation": "brut",
+        "vintage": "NV"
+    },
+    {
+        "type": "champagne",
+        "producer": "korbel",
+        "designation": "brut"
+    },
+    {
+        "type": "sparkling",
+        "producer": "villa sandi",
+        "designation": "ii fresco prosecco"
+    },
+    {
+        "type": "sparkling",
+        "producer": "chandon",
+        "designation": "sparkling rose"
+    },
+    {
+        "type": "white",
+        "varietal": "riesling",
+        "producer": "schmitt sohne",
+        "region": "mosel valley",
+        "country": "germany"
+    },
+    {
+        "type": "white",
+        "varietal": "chardonnay",
+        "producer": "hess select",
+        "state": "monterey",
+        "country": "california"
+    },
+    {
+        "type": "white",
+        "varietal": "sauvignon blanc",
+        "producer": "matua valley",
+        "region": "marlborough",
+        "country": "new zealand"
+    },
+    {
+        "type": "white",
+        "varietal": "sauvignon blanc",
+        "producer": "kenwood",
+        "state": "sonoma",
+        "country": "california"
+    },
+    {
+        "type": "white",
+        "varietal": "pinot grigio",
+        "producer": "e rime",
+        "region": "montalcino",
+        "country": "italy"
+    }
+]
